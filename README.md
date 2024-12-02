@@ -7,3 +7,5 @@ Open the project in Unity, make sure all the scripts and assets load properly, r
 
 
 I hope you enjoy the game!
+
+ Link to proejct video: https://www.flexclip.com/share/75521185138061ead7e2998538dc19e734adff3.html
